@@ -1,0 +1,77 @@
+
+.wrapper {
+    width: 360px;
+    margin: 0 auto;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+.messages {
+    width: 360px;
+    height: 530px;
+    background-image: url(https://149360821.v2.pressablecdn.com/wp-content/uploads/2020/02/Boy-Rapper-1.jpg);
+    background-position: center;
+    background-size: cover;
+    overflow: scroll;
+}
+textarea {
+    margin-top: 5px;
+    width: 290px;
+    height: 25px;
+    background-color: rgb(255, 255, 196);
+    border: 2px solid rgb(77, 74, 74);
+    border-radius: 50px 50px 50px 50px;
+}
+body {
+    background-color:  rgb(4, 4, 32);
+}
+.message {
+    background-color: rgb(99, 236, 72);
+    border-radius: 5px;
+    padding: 5px 10px;
+    display: inline-block;
+    margin: 10px;
+}
+.button {
+    color: tomato;
+    font-size: 13px;
+    margin-left: 5px;
+}
+img {
+    width: 20px;
+    height: 20px;
+}
+.form {
+    width: 360px;
+    height: 57px;
+    background-color: rgb(205, 243, 200);
+}
+.micro {
+    margin-left: 325px;
+    margin-top: -40px;
+}
+.chel {
+    width: 360px;
+    height: 55px;
+    background-color: rgb(205, 243, 200);
+}
+.nazad {
+ 
+}
+.name {
+    color: rgb(4, 4, 32);
+    font-size: 30px;
+    font-family: 'Alata', sans-serif;
+    font-family: 'Road Rage', cursive;
+    margin-left: 100px;
+    margin-top: -15px;
+}
+.face {
+    width: 55px;
+    height: 55px;
+    margin-left: 295px;
+    margin-top: -42px;
+    background-image: url(https://i0.wp.com/alittleextrablog.com/wp-content/uploads/2019/01/eminem-robin-outfit.jpg?w=999&ssl=1);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
